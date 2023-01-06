@@ -9,7 +9,7 @@
   "dependencies": {
     "@vue/cli-plugin-babel": "^4.4.6",
     "@vue/cli-plugin-vuex": "^4.4.6",
-    "@vue/cli-service": "^4.4.6",
+    "@vue/cli-service": "^5.0.8",
     "fibers": "^5.0.0",
     "fuse.js": "^6.4.0",
     "highlight.js": "^10.1.2",
